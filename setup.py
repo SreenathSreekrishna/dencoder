@@ -8,7 +8,7 @@ setup(
   author = 'Sreenath Sreekrishna',
   author_email = 'sreenath.sreekrishna.21@gmail.com',
   url = 'https://github.com/SreenathSreekrishna/dencoder',
-  download_url = 'https://github.com/SreenathSreekrishna/dencoder/dist/dencoder-0.1.tar.gz',
+  download_url = 'https://github.com/SreenathSreekrishna/dencoder/archive/refs/tags/v_01.tar.gz',
   keywords = ['python', 'cryptography', 'encoder', 'decoder'],
   install_requires=[],
   classifiers=[
