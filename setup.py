@@ -8,7 +8,7 @@ setup(
   author = 'Sreenath Sreekrishna',
   author_email = 'sreenath.sreekrishna.21@gmail.com',
   url = 'https://github.com/SreenathSreekrishna/encryptdecryptcrypt',
-  download_url = 'https://github.com/SreenathSreekrishna/encryptdecryptcrypt/archive/refs/tags/v_01.tar.gz',
+  download_url = 'https://github.com/SreenathSreekrishna/encryptdecryptcrypt/archive/refs/tags/v_02.tar.gz',
   keywords = ['python', 'cryptography', 'encoder', 'decoder'],
   install_requires=[],
   classifiers=[
