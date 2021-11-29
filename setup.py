@@ -1,14 +1,14 @@
 from distutils.core import setup
 setup(
-  name = 'dencoder',
-  packages = ['dencoder'],
+  name = 'encryptdecryptcrypt',
+  packages = ['encryptdecryptcrypt'],
   version = '0.1',
   license='MIT',
   description = 'simple vignere encoder with numbers as keys',
   author = 'Sreenath Sreekrishna',
   author_email = 'sreenath.sreekrishna.21@gmail.com',
-  url = 'https://github.com/SreenathSreekrishna/dencoder',
-  download_url = 'https://github.com/SreenathSreekrishna/dencoder/archive/refs/tags/v_01.tar.gz',
+  url = 'https://github.com/SreenathSreekrishna/encryptdecryptcrypt',
+  download_url = 'https://github.com/SreenathSreekrishna/encryptdecryptcrypt/archive/refs/tags/v_01.tar.gz',
   keywords = ['python', 'cryptography', 'encoder', 'decoder'],
   install_requires=[],
   classifiers=[
